@@ -7,6 +7,8 @@
 
 main分支为文档说明分支，需要下载世界备份请参考 [📁说明文档/分支管理](https://github.com/GarlicGo/9133-World/blob/main/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86.md)
 
+[📁说明文档/地图标点](https://github.com/GarlicGo/9133-World/blob/main/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/%E5%9C%B0%E5%9B%BE%E6%A0%87%E7%82%B9.md) 中给出了众多位置的坐标，可以帮助你节省大量的时间和精力。
+
 因经费问题无公网服务器，想要探索请下载至本地。
 
 ## 👀 世界里有什么？
