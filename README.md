@@ -1,1 +1,1 @@
-# 9133-World GarlicGo
+# 9133-World Public
